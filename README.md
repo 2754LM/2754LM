@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 
 ![Stats](./profile/stats.svg)
